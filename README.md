@@ -1,5 +1,10 @@
 # GIT_ASSIGNMENT_GDSC
-
+## Assignment
+- Make a folder with name of the folder in the format - `<Name>_<Rollno>` (Shashank_201CS257)
+- In that folder you can add any piece of code.
+- Make a pull request
+    
+    
 ## Contributing Guidelines
 ### Setting Up
 - Fork the repo.
